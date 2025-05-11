@@ -1,8 +1,8 @@
-# Full Stack Home Rentals Application
+# StaySphere: MERN-Based Hotel Booking & Hosting Platform for Travelers and Property Owners
 
 ## 📌 Project Overview
 
-This project is a **Full Stack Home Rentals Application** built with the **MERN** stack (MongoDB, Express.js, React.js, Node.js), demonstrating the ability to build a scalable, production-ready web application. It provides a platform for property owners to list their properties, and for users to browse, filter, and inquire about rentals.
+This project is a **StaySphere: MERN-Based Hotel Booking & Hosting Platform for Travelers and Property Owners** built with the **MERN** stack (MongoDB, Express.js, React.js, Node.js), demonstrating the ability to build a scalable, production-ready web application. It provides a platform for property owners to list their properties, and for users to browse, filter, and inquire about rentals.
 
 ### 🚀 **Deployment Status**  
 The **frontend** is **live on Vercel**, and **backend deployment** is in progress. The project is ready for production, with a seamless user experience and optimized performance.
